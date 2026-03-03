@@ -1656,6 +1656,14 @@ countries:
               pl: "Skontaktuj się z [Office of Competition and Consumer Protection (Urząd Ochrony Konkurencji i Konsumentów - UOKiK)](https://uokik.gov.pl/)"
               zh-TW: "聯絡[競爭與消費者保護辦公室 (UOKiK)](https://uokik.gov.pl/)"
               zh-CN: "联系[竞争与消费者保护办公室 (UOKiK)](https://uokik.gov.pl/)"
+      - id: lithuania
+        name:
+          en: "Lithuania"
+        items:
+          - text:
+              en: "Email: [tarnyba@vvtat.lt](mailto:tarnyba@vvtat.lt?cc=lithuania@keepandroidopen.org) [taryba@kt.gov.lt](mailto:taryba@kt.gov.lt?cc=lithuania@keepandroidopen.org)"
+          - text:
+              en: "Contact the [State Consumer Rights Protection Authority (SCRPA) (Valstybinė vartotojų teisių apsaugos tarnyba)](https://vvtat.lrv.lt/lt/) [Complaint portal](https://vtis.lt/) [The Competition Council of the Republic of Lithuania (KT) (Lietuvos Respublikos konkurencijos taryba)](https://kt.gov.lt/) [Complaint portal](https://kt.gov.lt/lt/formos/pranesimas-apie-karteli/)"
       - id: slovakia
         name:
           ar: "سلوفاكيا"
